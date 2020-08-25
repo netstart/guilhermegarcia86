@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Guilherme - Software engineer 🤓
+
+![Guilherme github stats](https://github-readme-stats.vercel.app/api?username=guilhermegarcia867&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegarcia867)](https://github.com/guilhermegarcia867/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-garcia-alves-11281aa4/)](https://www.linkedin.com/in/guilherme-garcia-alves-11281aa4/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kellyp.alves87@gmail.com)](mailto:guilherme.garcia86@gmail.com)
+![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_ga86?label=Twitter&style=social)
+
 
 <!--
 **guilhermegarcia86/guilhermegarcia86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
