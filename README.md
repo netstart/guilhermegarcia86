@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-garcia-alves-11281aa4/)](https://www.linkedin.com/in/guilherme-garcia-alves-11281aa4/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.garcia86@gmail.com)](mailto:guilherme.garcia86@gmail.com)
-![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_ga86?label=Twitter&style=social)
+[![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fguilherme_ga86)](https://twitter.com/guilherme_ga86)
 
 
 <!--
