@@ -10,6 +10,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Validando endpoints com NodeJS](https://proagramadev.com.br/express-celebrate-joi/)
+- [Express e MongoDB](https://proagramadev.com.br/express-rest-db/)
+- [NodeJS e Express](https://proagramadev.com.br/express-rest-I/)
+- [Kafka Sink](https://proagramadev.com.br/kafka-sink/)
+- [Kafka Connector](https://proagramadev.com.br/kafka-connector/)
 <!-- BLOG:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegarcia86&layout=compact&hide=html" alt="guilhermegarcia86" /></p>
