@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **guilherme.garcia86@gmail.com**
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegarcia86&layout=compact&hide=html" alt="guilhermegarcia86" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermegarcia86&show_icons=true" alt="guilhermegarcia86" /></p>
