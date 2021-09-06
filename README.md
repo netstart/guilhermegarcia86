@@ -10,11 +10,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Primeiros passos com Java](https://programadev.com.br/java-iniciante/)
 - [Criando uma API com Kotlin e Javalin](https://programadev.com.br/kotlin-javalin-exposed-fuel/)
 - [Criando uma aplicação REST com NestJS, Fastify e TypeORM](https://programadev.com.br/nestjs-fastify-typeorm/)
 - [Validando endpoints com NodeJS](https://programadev.com.br/express-celebrate-joi/)
 - [Express e MongoDB](https://programadev.com.br/express-rest-db/)
-- [NodeJS e Express](https://programadev.com.br/express-rest-I/)
 <!-- BLOG:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegarcia86&layout=compact&hide=html" alt="guilhermegarcia86" /></p>
