@@ -10,11 +10,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Primeiros passos com Java VII](https://programadev.com.br/java-iniciante-pt7/)
 - [Primeiros passos com Java VI](https://programadev.com.br/java-iniciante-pt6/)
 - [Primeiros passos com Java V](https://programadev.com.br/java-iniciante-pt5/)
 - [Primeiros passos com Java IV](https://programadev.com.br/java-iniciante-pt4/)
 - [Primeiros passos com Java III](https://programadev.com.br/java-iniciante-pt3/)
-- [Primeiros passos com Java II](https://programadev.com.br/java-iniciante-pt2/)
 <!-- BLOG:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegarcia86&layout=compact&hide=html" alt="guilhermegarcia86" /></p>
